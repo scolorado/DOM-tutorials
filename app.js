@@ -1,5 +1,8 @@
+//video 1
 // const search = document.getElementById('search-books');
 // const bookList = document.getElementById('book-list');
+
+//video 2
 
 // console.log(search, bookList);
 
@@ -12,6 +15,8 @@
 //   console.log(title);
 // });
 
+//video 3
+
 // const wmf = document.querySelector('#book-list li:nth-child(2) .name');
 // console.log(wmf);
 
@@ -21,6 +26,8 @@
 // books = document.querySelectorAll('#book-list li .name');
 // console.log(books);
 
+//video 4
+
 // Array.from(books).forEach(function(book){
 //   console.log(book);
 // });
@@ -29,6 +36,8 @@
 // Array.from(books).forEach(function()){
 //     console.log(book.textContent)
 // }
+
+//video 5
 
 // const books = document.querySelectorAll('#book-list li .name');
 
