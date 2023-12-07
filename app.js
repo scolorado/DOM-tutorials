@@ -68,4 +68,5 @@ console.log('the parent element is:', bookList.parentElement);
 
 console.log(bookList.children);
 
+//video 8
 
