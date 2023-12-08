@@ -121,7 +121,7 @@ list.addEventListener('click', function(e){
 });
 
 
-//video 11 and 12
+//video 11, 12, 13
 // const forms = document.forms;
 // console.log(forms);
 // console.log(forms['add-book']);
@@ -144,6 +144,10 @@ addForm.addEventListener('submit', function(e){
   //add content
   deleteBtn.textContent = 'delete';
   bookName.textContent = '';
+
+  //add classes
+  bookName.classList.add('name');
+  deleteBtn.classList.add('delete');
 
   //append to document
   li.appendChild(bookName);
