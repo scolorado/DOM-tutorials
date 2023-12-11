@@ -110,18 +110,18 @@
 //     });
 // });
 
-const list = document.querySelector('#book-list ul');
+// const list = document.querySelector('#book-list ul');
 
-//delete books
-list.addEventListener('click', function(e){
-    if(e.target.className == 'delete'){
-        const li = e.target.parentElement;
-        list.removeChild(li);
-    }
-});
+// //delete books
+// list.addEventListener('click', function(e){
+//     if(e.target.className == 'delete'){
+//         const li = e.target.parentElement;
+//         list.removeChild(li);
+//     }
+// });
 
 
-//video 11, 12, 13
+//video 11, 12, 13, 14
 // const forms = document.forms;
 // console.log(forms);
 // console.log(forms['add-book']);
